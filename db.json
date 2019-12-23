@@ -1,3 +1,4 @@
+[
 {
     id: '1',
     title: 'Project One',
@@ -19,3 +20,4 @@
     percentComplete: 100,
     approved: true,
   }
+]
